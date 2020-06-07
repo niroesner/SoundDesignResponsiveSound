@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{A2C223DB-0F8F-0710-3AD7-07565B67FC00}</ProjectGuid>
+    <ProjectGuid>{FCEA58B6-2BF7-BC02-DAB8-6F6B30870964}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -198,31 +198,31 @@
      <None Include="Assets\Models\Standard Assets\Effects\TessellationShaders\Shaders\BumpedSpecularDisplacement.shader" />
      <None Include="Assets\Scenes\SampleScenes\Shaders\Skybox-Procedural.shader" />
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>D:/Nina/Documents/Gameslab/3.Semester/GD/EmanuelGDAssignemnt/EmanuelGDAssignment/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>D:/Nina/Documents/Gameslab/4.Semester/SoundDesign/SoundDesignResponsiveSound/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>D:/Nina/Documents/Gameslab/3.Semester/GD/EmanuelGDAssignemnt/EmanuelGDAssignment/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>D:/Nina/Documents/Gameslab/4.Semester/SoundDesign/SoundDesignResponsiveSound/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>D:/Nina/Documents/Gameslab/3.Semester/GD/EmanuelGDAssignemnt/EmanuelGDAssignment/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>D:/Nina/Documents/Gameslab/4.Semester/SoundDesign/SoundDesignResponsiveSound/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>D:/Nina/Documents/Gameslab/3.Semester/GD/EmanuelGDAssignemnt/EmanuelGDAssignment/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>D:/Nina/Documents/Gameslab/4.Semester/SoundDesign/SoundDesignResponsiveSound/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>D:/Nina/Documents/Gameslab/3.Semester/GD/EmanuelGDAssignemnt/EmanuelGDAssignment/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>D:/Nina/Documents/Gameslab/4.Semester/SoundDesign/SoundDesignResponsiveSound/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>D:/Nina/Documents/Gameslab/3.Semester/GD/EmanuelGDAssignemnt/EmanuelGDAssignment/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>D:/Nina/Documents/Gameslab/4.Semester/SoundDesign/SoundDesignResponsiveSound/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>D:/Nina/Documents/Gameslab/3.Semester/GD/EmanuelGDAssignemnt/EmanuelGDAssignment/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>D:/Nina/Documents/Gameslab/4.Semester/SoundDesign/SoundDesignResponsiveSound/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>D:/Nina/Documents/Gameslab/3.Semester/GD/EmanuelGDAssignemnt/EmanuelGDAssignment/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>D:/Nina/Documents/Gameslab/4.Semester/SoundDesign/SoundDesignResponsiveSound/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>D:/Nina/Documents/Gameslab/3.Semester/GD/EmanuelGDAssignemnt/EmanuelGDAssignment/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>D:/Nina/Documents/Gameslab/4.Semester/SoundDesign/SoundDesignResponsiveSound/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

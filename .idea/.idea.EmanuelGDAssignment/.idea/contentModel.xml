@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\Nina\.Rider2019.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Nina\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_EmanuelGDAssignment.-805778069.00" t="ExcludeRecursive" />
-    <e p="D:\Nina\Documents\Gameslab\3.Semester\GD\EmanuelGDAssignemnt\EmanuelGDAssignment" t="IncludeRecursive">
+    <e p="C:\Users\Nina\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_EmanuelGDAssignment.-1881544078.00" t="ExcludeRecursive" />
+    <e p="D:\Nina\Documents\Gameslab\4.Semester\SoundDesign\SoundDesignResponsiveSound" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Explosion.cs" t="Include" />
+        <e p="footsteps.cs" t="Include" />
         <e p="Models" t="Include">
           <e p="Standard Assets" t="Include">
             <e p="2D" t="Include">
