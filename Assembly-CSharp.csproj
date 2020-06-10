@@ -151,14 +151,14 @@
      <Compile Include="Assets\Models\Standard Assets\Vehicles\Car\Scripts\SkidTrail.cs" />
      <Compile Include="Assets\Models\Standard Assets\Vehicles\Car\Scripts\Suspension.cs" />
      <Compile Include="Assets\Models\Standard Assets\Vehicles\Car\Scripts\WheelEffects.cs" />
-     <Compile Include="Assets\Scenes\SampleScenes\Menu\Scripts\MenuSceneLoader.cs" />
-     <Compile Include="Assets\Scenes\SampleScenes\Menu\Scripts\PauseMenu.cs" />
-     <Compile Include="Assets\Scenes\SampleScenes\Menu\Scripts\SceneAndURLLoader.cs" />
-     <Compile Include="Assets\Scenes\SampleScenes\Scripts\CameraSwitch.cs" />
-     <Compile Include="Assets\Scenes\SampleScenes\Scripts\LevelReset.cs" />
-     <Compile Include="Assets\Scenes\SampleScenes\Scripts\ParticleSceneControls.cs" />
-     <Compile Include="Assets\Scenes\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
-     <Compile Include="Assets\Scenes\SampleScenes\Scripts\SlowMoButton.cs" />
+     <Compile Include="Assets\SampleScenes\Menu\Scripts\MenuSceneLoader.cs" />
+     <Compile Include="Assets\SampleScenes\Menu\Scripts\PauseMenu.cs" />
+     <Compile Include="Assets\SampleScenes\Menu\Scripts\SceneAndURLLoader.cs" />
+     <Compile Include="Assets\SampleScenes\Scripts\CameraSwitch.cs" />
+     <Compile Include="Assets\SampleScenes\Scripts\LevelReset.cs" />
+     <Compile Include="Assets\SampleScenes\Scripts\ParticleSceneControls.cs" />
+     <Compile Include="Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
+     <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
      <Compile Include="Assets\Scripts\CameraController.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
      <Compile Include="Assets\Scripts\Respawn.cs" />
@@ -196,7 +196,7 @@
      <None Include="Assets\Models\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
      <None Include="Assets\Models\Standard Assets\ParticleSystems\Shaders\PriorityParticleAdd.shader" />
      <None Include="Assets\Models\Standard Assets\Effects\TessellationShaders\Shaders\BumpedSpecularDisplacement.shader" />
-     <None Include="Assets\Scenes\SampleScenes\Shaders\Skybox-Procedural.shader" />
+     <None Include="Assets\SampleScenes\Shaders\Skybox-Procedural.shader" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>D:/Nina/Documents/Gameslab/4.Semester/SoundDesign/SoundDesignResponsiveSound/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
